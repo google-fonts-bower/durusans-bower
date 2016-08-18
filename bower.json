@@ -1,0 +1,17 @@
+{
+    "name": "durusans-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Onur Yaz\u0131c\u0131gil"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/durusans-bower.git"
+    },
+    "description": "Duru Sans font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
